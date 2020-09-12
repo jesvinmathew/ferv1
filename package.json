@@ -1,0 +1,27 @@
+{
+  "name": "refix",
+  "version": "1.0.0",
+  "description": "Refix - Vue Nuxt Fridge & Freezer Repair Company Template",
+  "author": "Layerdrops",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.1",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "mdbvue": "^6.7.1",
+    "nuxt": "^2.0.0",
+    "rsvp": "^4.8.5",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/eslint-module": "^2.0.0",
+    "eslint": "^7.7.0"
+  }
+}
